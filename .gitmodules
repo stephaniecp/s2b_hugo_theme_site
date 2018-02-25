@@ -1,0 +1,3 @@
+[submodule "s2b_hugo_theme"]
+	path = s2b_hugo_theme
+	url = https://github.com/stephaniecp/s2b_hugo_theme.git
