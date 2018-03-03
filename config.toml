@@ -1,4 +1,4 @@
-baseurl = "https://example.org"
+baseurl = "/"
 title = "Shift 2 Bikes"
 theme = "s2b_bulma"
 themesDir = "themes"
