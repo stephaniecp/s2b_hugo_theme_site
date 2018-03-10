@@ -18,22 +18,22 @@ paginate = 10
 
 [[menu.main]]
     name = "Who We Are"
-    url  = "/"
+    url  = "/who-we-are/"
     weight = 1
 
 [[menu.main]]
     name = "Calendar"
-    url  = "/blog/"
+    url  = "/calendar/"
     weight = 2
 
 [[menu.main]]
     name = "PedalPalooza"
-    url  = "/"
+    url  = "/pedalpalooza/"
     weight = 1
 
 [[menu.main]]
     name = "RiseUp"
-    url  = "/blog/"
+    url  = "https://lists.riseup.net/www/info/shift"
     weight = 2
 
 [[menu.main]]
