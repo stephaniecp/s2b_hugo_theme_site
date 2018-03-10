@@ -4,9 +4,11 @@ description = "about Pedal Palooza"
 keywords = ["PedalPalooza"]
 +++
 
-Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.
+### Pedalpalooza is 3+ weeks of bikey fun. With ~300 different events, most organized by individuals, bikers of all persuasions are likely to find many events of interest. Nearly all events are free.
 
-## 1. WHAT TO DO IF I HAVE STILL NOT RECEIVED THE ORDER?
-a
-THIS IS A who-we-are.md
+Visiting from out of town? We've started a Visitor Info page.
+
+![PedalPalooza image]
+(/img/pp2017.jpg)
+
 
