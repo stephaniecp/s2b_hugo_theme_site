@@ -1,7 +1,6 @@
-baseurl = "https://example.org"
+baseurl = "/"
 title = "Shift 2 Bikes"
-theme = "s2b_bulma"
-themesDir = "themes"
+theme = "s2b_hugo_theme"
 languageCode = "en-us"
 # Site language. Available translations in the theme's `/i18n` directory.
 defaultContentLanguage = "en"
@@ -18,20 +17,46 @@ paginate = 10
 # Main menu
 
 [[menu.main]]
-    name = "Home"
+    name = "Who We Are"
     url  = "/"
     weight = 1
 
 [[menu.main]]
-    name = "Blog"
+    name = "Calendar"
     url  = "/blog/"
     weight = 2
 
 [[menu.main]]
-    name = "FAQ"
+    name = "PedalPalooza"
+    url  = "/"
+    weight = 1
+
+[[menu.main]]
+    name = "RiseUp"
+    url  = "/blog/"
+    weight = 2
+
+[[menu.main]]
+    name = "Safety"
     identifier = "faq"
     url  = "/faq/"
     weight = 3
+
+#[[menu.main]]
+#    name = "Home"
+#    url  = "/"
+#    weight = 1
+#
+#[[menu.main]]
+#    name = "Blog"
+#    url  = "/blog/"
+#    weight = 2
+#
+#[[menu.main]]
+#    name = "FAQ"
+#    identifier = "faq"
+#    url  = "/faq/"
+#    weight = 3
 
 [[menu.main]]
     name = "Contact"
@@ -161,7 +186,7 @@ paginate = 10
     # All clients are defined in their own files. You can find example items
     # at 'exampleSite/data/clients'.
     # For more informtion take a look at the README.
-    title = "Our Clients"
+    title = "Our Sponsors"
     subtitle = ""
 
 [params.recent_posts]

@@ -1,23 +1,24 @@
 <!DOCTYPE html>
 <html>
 
-<head>
+{{ partial "head.html" . }}
 
-  <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>Shift 2 Bikes</title>
+  <body>
 
-  <link rel="stylesheet" href="/css/bulma.css">
+    <div id="all">
 
-  <!--<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bulma/0.6.2/css/bulma.min.css">-->
-  <!--<script defer src="https://use.fontawesome.com/releases/v5.0.6/js/all.js"></script>-->
+      <header>
 
-</head>
+        {{ partial "nav.html" . }}
 
-<body>
+      </header>
 
-{{ partial "carousel.html" . }}
+      {{ partial "carousel.html" . }}
 
-</body>
+    </div>
+
+    {{ partial "scripts.html" . }}
+
+  </body>
 
 </html>
